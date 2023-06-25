@@ -12,10 +12,12 @@ The goal of this project is to create a deployable machine learning classificati
 This model will serve as a tool to help SBA make effective loan application approvals and reduce fraud. 
 
 
-
 <h2> Part I: Exploratory Data Analysis <img src ="https://th.bing.com/th/id/OIP.j5Vj7VYXdSuB0Cho-HbMpgHaHa?pid=ImgDet&rs=1" height = 25, width = 25 />
 </h2>
 
+![image](https://github.com/rakimreid/sba-7a_loan/assets/23224784/d9aca6e9-0746-4d68-90e3-76847c691fea)
+
+![image](https://github.com/rakimreid/sba-7a_loan/assets/23224784/118dd0c0-c9c1-442b-ac69-96b1946e0766)
 
 
 <h3>Data</h3> 
@@ -61,9 +63,9 @@ The tuned XGBoostclassifier model performed the best out of the models with The 
 
 </h2> 
      
-<h3> Evaluation:</h3>
+<h3> Evaluation</h3>
 
-
+Classification models may yield better predictive accuracy than regressions for this type of dataset. Tree-based models and deep learning techniques tend to produce better results. This is probably due to how these types of models mimic how humans think. Supervised learning models are a potentially viable approach to classify the number of jobs supported. This will help solve a perennial problem in federal government: managing the cost of programs and getting the most value of each program.
 
 <h3>Future Projects</h3>
 
