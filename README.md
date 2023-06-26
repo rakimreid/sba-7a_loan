@@ -17,8 +17,11 @@ This model will serve as a tool to help SBA make effective loan application appr
 
 ![image](https://github.com/rakimreid/sba-7a_loan/assets/23224784/d9aca6e9-0746-4d68-90e3-76847c691fea)
 
+Loans for existing business or more than two years old counted among the most.   
+
 ![image](https://github.com/rakimreid/sba-7a_loan/assets/23224784/118dd0c0-c9c1-442b-ac69-96b1946e0766)
 
+The median loan term is 10 years. 
 
 <h3>Data</h3> 
 
